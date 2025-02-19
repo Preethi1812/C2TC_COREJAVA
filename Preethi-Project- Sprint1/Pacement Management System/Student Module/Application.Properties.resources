@@ -1,0 +1,7 @@
+//Application Properties (Database Connection):
+spring.datasource.url=jdbc:postgresql://localhost:5432/placementservice
+spring.datasource.username=postgres
+spring.datasource.password=Preethi@123
+spring.datasource.driver-class-name=org.postgresql.Driver
+spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
+spring.jpa.hibernate.ddl-auto=update
